@@ -4,9 +4,9 @@
     |─ src
       |─ components
       |  |─ Layout
-      |  |─ Layout.jsx
-      |  |─ LayoutStyles.scss
-      |  └─ index.jsx
+      |  |   |─ Layout.jsx
+      |  |   |─ LayoutStyles.scss
+      |  |   └─ index.jsx
       |─ dictionary 
       |─ images
       |─ pages
